@@ -1,4 +1,4 @@
-Path Tracer
+LensSimulator
 ===================================
 
 # Overview
