@@ -8,7 +8,7 @@ This projects aims to simulate lenses, giving us power to distort and change foc
 
 ### Follow the link for full explanation of the methods made by me
 
-[CLICK ME FOR DOCUMENTATIONS](https://huutinhpham.github.io/projects/pathtracer/pathtracer.html)
+[CLICK ME FOR DOCUMENTATIONS](http://54.241.219.178/projects/LensSimulator)
 
 ##### Credit
 
